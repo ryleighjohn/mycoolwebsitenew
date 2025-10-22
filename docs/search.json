@@ -2,30 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "mycoolwebsite",
     "section": "",
-    "text": "My goal is to be a Wildlife Biologist for the New York State Department of Environmental Conservation! New York is my home state, so I would love to go back there and work.\n\n\n\nI graduated with my bachelors degree in Biology from the University at Albany, and now I am pursuing my masters in Wildlife and Conservation Biology at the University of New Hampshire.\n\n\n\nI previously worked as an Environmental Intern and then as the Climate Change Program Manager for the Seneca Nation Environmental Protection Department.\nThanks for checking out my web site!"
+    "text": "git— title: “About Me” about: id: me template: broadside image: img/IMG_8602.JPG editor: markdown: wrap: 72\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
     "href": "index.html#goals",
-    "title": "About Me",
-    "section": "",
-    "text": "My goal is to be a Wildlife Biologist for the New York State Department of Environmental Conservation! New York is my home state, so I would love to go back there and work."
+    "title": "mycoolwebsite",
+    "section": "Goals",
+    "text": "Goals\nMy goal is to be a Wildlife Biologist for the New York State Department of Environmental Conservation! New York is my home state, so I would love to go back there and work."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "About Me",
-    "section": "",
-    "text": "I graduated with my bachelors degree in Biology from the University at Albany, and now I am pursuing my masters in Wildlife and Conservation Biology at the University of New Hampshire."
+    "title": "mycoolwebsite",
+    "section": "Education",
+    "text": "Education\nI graduated with my bachelors degree in Biology from the University at Albany, and now I am pursuing my masters in Wildlife and Conservation Biology at the University of New Hampshire."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "About Me",
-    "section": "",
-    "text": "I previously worked as an Environmental Intern and then as the Climate Change Program Manager for the Seneca Nation Environmental Protection Department."
+    "title": "mycoolwebsite",
+    "section": "Experience",
+    "text": "Experience\nI previously worked as an Environmental Intern and then as the Climate Change Program Manager for the Seneca Nation Environmental Protection Department."
   },
   {
     "objectID": "projects.html#project-2",
